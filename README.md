@@ -1,12 +1,12 @@
-# 🧠 Pneumonia Detection using CNN
+#  Pneumonia Detection using CNN
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project uses a **Convolutional Neural Network (CNN)** to detect **pneumonia** from chest X-ray images. The model classifies images as either **PNEUMONIA** or **NORMAL**, aiming to assist early medical diagnosis using deep learning.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used is publicly available on Kaggle:  
 🔗 [Chest X-Ray Images (Pneumonia) | Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
@@ -20,7 +20,7 @@ Each of these contains:
 - `PNEUMONIA/`
 - `NORMAL/`
 
-### 📊 Dataset Summary
+###  Dataset Summary
 
 **Train:**  
 - 1,341 NORMAL  
@@ -36,7 +36,7 @@ Each of these contains:
 
 ---
 
-## 📌 Notebook Structure
+##  Notebook Structure
 
 ### 1. **Library Imports**
 Libraries used: TensorFlow, Keras, OpenCV, Matplotlib, Seaborn, Scikit-learn.
@@ -81,7 +81,7 @@ The model includes:
 
 ---
 
-## ✅ Results
+##  Results
 
 The final model successfully detects pneumonia from chest X-rays and serves as a potential tool for assisting diagnosis in medical contexts.
 
